@@ -44,7 +44,10 @@ node_modules is not included in the repository because it is ignored in .gitigno
 ## 1 Initialize Playwright
 
 This will scaffold the project and create the config files:
-- npm init playwright@latest
+- Run all test:
+```bash
+npm init playwright@latest
+```
 
 ## 2 Run test Playwright
 
