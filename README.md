@@ -48,6 +48,15 @@ This will scaffold the project and create the config files:
 
 ## 2 Run test Playwright
 
-- Run all test: npx playwright test
-- Run tests with UI mode: npx playwright test --ui
-- View the HTML report: npx playwright show-report
+- Run all test:
+```bash
+npx playwright test
+```
+- Run tests with UI mode:
+```bash
+npx playwright test --ui
+```
+- View the HTML report:
+```bash
+npx playwright show-report
+```
